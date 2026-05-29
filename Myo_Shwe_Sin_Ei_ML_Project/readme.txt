@@ -1,14 +1,7 @@
-Author - Myo Shwe Sin Ei
-INM431 Machine Learning - ML Project
-
 UK Housing Price Prediction
 Ridge Regression vs Random Forest
 
-*** The Random Forest Model was 523MB and couldn't be uploaded. I have added the Models zip file on Google Drive at this link. ***
-
-Google Drive Folder Link to Models Zip File and Video + Transcript
-
-https://drive.google.com/drive/u/0/folders/1kjFccTnob7npqGu22vJh76JlK3De7KFB
+*** The Random Forest Model was 523MB and couldn't be uploaded. You can directly request if you want to view it. ***
 
 Project Overview
 This project compares Ridge Regression and Random Forest models for predicting UK housing prices using an enhanced version of public UK housing transaction data from HM Land Registry on Kaggle.
@@ -26,7 +19,6 @@ Files
 'main.m' - Main training script with EDA, preprocessing, model training and evaluation
 'run_test_demo.m' - Demo script for loading trained models and making predictions
 'uk_housing_clean.csv' - Dataset
-'readme.txt' - Instruction document
 '/models' - Folder of trained models, parameters and indices for training, validation and testing sets
 '/results' - Folder of cross-validation and test set performance results comparisons
 
