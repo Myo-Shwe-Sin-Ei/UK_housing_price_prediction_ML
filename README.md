@@ -1,8 +1,6 @@
 A Comparison between Ridge Regression and Random Forest
 applied to UK Housing Price Prediction
 
-INM431 Machine Learning, City St. George's University of London
-
 --------------------------------------------------------------------------------
 1. OVERVIEW
 --------------------------------------------------------------------------------
