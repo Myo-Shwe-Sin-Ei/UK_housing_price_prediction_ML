@@ -1,7 +1,6 @@
-A Comparison between Ridge Regression and Random Forest
-applied to UK Housing Price Prediction
+A Comparison between Ridge Regression and Random Forest applied to UK Housing Price Prediction
+================================================================================
 
---------------------------------------------------------------------------------
 1. OVERVIEW
 --------------------------------------------------------------------------------
 This project builds and compares two machine learning models, Ridge Regression
