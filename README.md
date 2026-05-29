@@ -30,6 +30,7 @@ impossible "trillion-pound" prices), a large gap between mean and median price,
 dominance of flats/leasehold properties, Greater London accounting for ~8% of
 records, and a seasonal peak in March (likely the end of the UK tax year).
 
+https://www.kaggle.com/datasets/burhanimtengwa/uk-housing-cleaned/data?select=property_data_clean.csv
 
 --------------------------------------------------------------------------------
 3. PREPROCESSING
@@ -157,9 +158,3 @@ Key takeaways:
   comparison of multiple regression techniques. SN Business & Economics, 2(11).
   doi:10.1007/s43546-022-00358-4.
 
-  Dataset
-
-https://www.kaggle.com/datasets/burhanimtengwa/uk-housing-cleaned/data?select=property_data_clean.csv
-Samples: 249,766 property transactions
-Features: Property_Type, Old_New, Duration, Town_City, District, County, PPD_Category_Type, Year, Month
-Target Variable: Price (log-transformed)
